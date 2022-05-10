@@ -1,0 +1,30 @@
+legend {
+  color: white;
+  text-align: left;
+  background-color: mediumpurple;
+  width: 99%;
+  height: auto;
+}
+
+fieldset{
+  background-color: #70bd70;
+  width: 99%;
+  height: auto;
+}
+
+#moviename {
+  float: right;
+  width: 50%;
+}
+
+#ratings {
+  float: right;
+  width: 50%;
+}
+
+#movie_list {
+  color: black;
+  background-color: #70bd70;
+  border-color: #70bd70;
+  width: 100%;
+}
